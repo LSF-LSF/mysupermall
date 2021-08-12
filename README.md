@@ -1,4 +1,6 @@
-# supermall
+# xmgmail
+
+```该项目来自codewhy老师的蘑菇街项目,小白跟着做缝缝补补算完成了```
 
 ## Project setup
 ```
@@ -24,6 +26,3 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
